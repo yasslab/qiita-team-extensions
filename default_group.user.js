@@ -12,6 +12,7 @@
     'use strict';
 
     const DEFAULT_OPTION_VALUE = 'debug';
+    const FALLBACK_OPTION_VALUE = '_public';
     let selector_paths = [
         '#new_draft_item > div.editorFooter > div.editorFooter_visibilitySelector.form-inline.pull-right > select',          // new
         '#edit_draft_item > div.editorFooter > div.editorFooter_visibilitySelector.form-inline.pull-right > select',         // draft
@@ -31,5 +32,8 @@
 
     if (element.value === '') {
         element.value = DEFAULT_OPTION_VALUE;
+        if (element.value === '') {
+            element.value = FALLBACK_OPTION_VALUE;
+        }
     }
 })();
