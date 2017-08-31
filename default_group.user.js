@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Qiita Team Extension
-// @namespace    https://github.com/yasslab/qiita-team-extension
+// @namespace    https://github.com/yasslab/
 // @version      0.1
 // @description  Automatically select a group to publish
 // @author       nalabjp
