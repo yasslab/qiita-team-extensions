@@ -1,6 +1,8 @@
 # Qiita:Team Extension
 
-Set default group settings for Qiita:Team using Tamper Monkey
+Set up default group for Qiita:Team using Tamper Monkey.   
+This script automatically selects a group to publish,   
+so you don't have to worry about where to post. Just post it ;)
 
 ## Installation
 
