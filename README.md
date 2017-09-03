@@ -19,6 +19,10 @@ You can change the default settings, and have fun with your [Qiita:Team](https:/
 
 ## Screencasts
 
+*NOTE: We recommend to load scripts by clicking the links above*   
+*because it's easy and automatically setting up 'Update URL',*   
+*which automatically updates script when updated on GitHub.*
+
 ### 1. How to install 'Tampempermonkey' to Chrome
 
 [![Screencast for installing Tampermonkey](http://g.recordit.co/7G0SlMUKlB.gif)](http://recordit.co/7G0SlMUKlB)
