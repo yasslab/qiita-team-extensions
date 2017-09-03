@@ -11,7 +11,7 @@
 (function() {
     'use strict';
 
-    const DEFAULT_OPTION_VALUE = 'debug';
+    const DEFAULT_OPTION_VALUE = 'confidential';
     const FALLBACK_OPTION_VALUE = '_public';
     let selector_paths = [
         '#new_draft_item > div.editorFooter > div.editorFooter_visibilitySelector.form-inline.pull-right > select',          // new
