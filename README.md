@@ -19,10 +19,6 @@ You can change the default settings, and have fun with your [Qiita:Team](https:/
 
 ## Screencasts
 
-*NOTE: We recommend to load scripts by clicking the links above*   
-*because it's easy and automatically setting up 'Update URL',*   
-*which automatically updates script when updated on GitHub.*
-
 ### 1. How to install 'Tampempermonkey' to Chrome
 
 [![Screencast for installing Tampermonkey](http://g.recordit.co/7G0SlMUKlB.gif)](http://recordit.co/7G0SlMUKlB)
@@ -34,6 +30,18 @@ You can change the default settings, and have fun with your [Qiita:Team](https:/
 ### 3. How to set default group to post (by hand)
 
 [![Screencast for setting up script](http://g.recordit.co/R6nUxwjLCs.gif)]()
+
+
+## TIPS for default settings
+
+If you would like to tweak default settings organization-widely,   
+we recommend to **fork this repository** first,   
+then load scripts by [clicking the links](https://github.com/yasslab/qiita-team-extensions#installation) above.
+
+This repository tweaks default settings for [YassLab](https://yasslab.jp/) organization,   
+but it would not be perfectly fit to your organization's demand.
+
+So, we recommend to fork, tweak default settings, and then load your scripts. ;)
 
 
 ## LICENSE
