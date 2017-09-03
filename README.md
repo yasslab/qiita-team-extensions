@@ -1,14 +1,20 @@
-# Qiita:Team Extension
+# Qiita:Team Extensions
 
-Set up default group for Qiita:Team using [Tampermonkey](https://tampermonkey.net/).   
-This script automatically selects a group to publish,   
-so you don't have to worry about where to post. Just post it ;)
+Tweak default settings for Qiita:Team by using [Tampermonkey](https://tampermonkey.net/).   
+This repository has user scripts that include:
+
+- automatically selecting a group to post.
+- automatically selecting co-editing mode.
+
+You can change the default settings, and have fun with your [Qiita:Team](https://teams.qiita.com/)!
 
 ## Installation
 
 1. Install [Tampermonkey](http://tampermonkey.net) on your browser.
-2. Copy script from [default_group.user.js](https://github.com/yasslab/qiita-team-extension/raw/master/default_group.user.js).
-3. Paste it to Tamperscript settings.
+2. Copy scripts you want (and tweak parameters if necessary):
+  - [default_group.user.js](https://github.com/yasslab/qiita-team-extension/raw/master/default_group.user.js).
+  - [co_editing_mode.user.js](https://github.com/yasslab/qiita-team-extension/raw/master/co_editing_mode.user.js)
+3. Check if it works correctly on your Qiita:Team ;)
 
 ## Screencasts
 
