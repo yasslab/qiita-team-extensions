@@ -31,6 +31,10 @@ You can change the default settings, and have fun with your [Qiita:Team](https:/
 
 [![Screencast for setting up script](http://g.recordit.co/R6nUxwjLCs.gif)]()
 
+### 4. How to update scripts (by hand)
+
+[![Screencast for updating scripts](http://g.recordit.co/W5pbfXvfNa.gif)](http://recordit.co/W5pbfXvfNa)
+
 
 ## TIPS for default settings
 
