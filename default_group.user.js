@@ -6,6 +6,7 @@
 // @author       nalabjp
 // @match        https://yasslab.qiita.com/drafts/*
 // @grant        none
+// @run-at       document-idle
 // ==/UserScript==
 
 (function() {
