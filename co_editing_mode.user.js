@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Qiita:Team Extension (Co-editing mode)
 // @namespace    https://github.com/yasslab/
-// @version      0.3
+// @version      0.4
 // @description  Automatically select co-editing mode
 // @author       nalabjp
 // @match        https://yasslab.qiita.com/drafts/*
