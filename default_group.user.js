@@ -16,6 +16,7 @@
     const FALLBACK_OPTION_VALUE = '_public';
     let selector_path = '.editor.form > div.editorFooter > div.editorFooter_visibilitySelector.form-inline.pull-right > select';
     let element = document.querySelector(selector_path);
+    let event = new Event("change", { bubbles: true });
     if (element === null) return;
 
     if (element.value === '') {
@@ -24,4 +25,5 @@
             element.value = FALLBACK_OPTION_VALUE;
         }
     }
+    element.dispatchEvent(event);
 })();
