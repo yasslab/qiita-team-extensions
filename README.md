@@ -1,3 +1,7 @@
+[![Slides on Qiita:Team Extensions](/cover.png)](https://speakerdeck.com/yasulab/qiita-team-extensions-for-parallel-working)
+
+cf. [Qiita:Team Extensions for Parallel Working](https://speakerdeck.com/yasulab/qiita-team-extensions-for-parallel-working) - Speaker Deck
+
 # Qiita:Team Extensions
 
 Tweak default settings for Qiita:Team by using [Tampermonkey](https://tampermonkey.net/).   
